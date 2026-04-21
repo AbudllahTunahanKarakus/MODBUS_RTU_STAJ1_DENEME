@@ -1,0 +1,13 @@
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.csproj.AssemblyReference.cache
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.Form1.resources
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.Properties.Resources.resources
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.csproj.GenerateResource.cache
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.csproj.CoreCompileInputs.cache
+C:\Users\tunah\source\repos\ModbusCleanUp\bin\Debug\ModbusCleanUp.exe.config
+C:\Users\tunah\source\repos\ModbusCleanUp\bin\Debug\ModbusCleanUp.exe
+C:\Users\tunah\source\repos\ModbusCleanUp\bin\Debug\ModbusCleanUp.pdb
+C:\Users\tunah\source\repos\ModbusCleanUp\bin\Debug\EasyModbus.dll
+C:\Users\tunah\source\repos\ModbusCleanUp\bin\Debug\EasyModbus.xml
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCl.D172EC54.Up2Date
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.exe
+C:\Users\tunah\source\repos\ModbusCleanUp\obj\Debug\ModbusCleanUp.pdb

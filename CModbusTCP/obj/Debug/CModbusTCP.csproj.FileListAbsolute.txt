@@ -1,0 +1,13 @@
+C:\Users\tunah\source\repos\CModbusTCP\bin\Debug\CModbusTCP.exe.config
+C:\Users\tunah\source\repos\CModbusTCP\bin\Debug\CModbusTCP.exe
+C:\Users\tunah\source\repos\CModbusTCP\bin\Debug\CModbusTCP.pdb
+C:\Users\tunah\source\repos\CModbusTCP\bin\Debug\EasyModbus.dll
+C:\Users\tunah\source\repos\CModbusTCP\bin\Debug\EasyModbus.xml
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.csproj.AssemblyReference.cache
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.Form1.resources
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.Properties.Resources.resources
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.csproj.GenerateResource.cache
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.csproj.CoreCompileInputs.cache
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.csproj.Up2Date
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.exe
+C:\Users\tunah\source\repos\CModbusTCP\obj\Debug\CModbusTCP.pdb

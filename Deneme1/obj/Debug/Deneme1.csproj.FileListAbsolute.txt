@@ -1,0 +1,13 @@
+C:\Users\tunah\source\repos\Deneme1\bin\Debug\Deneme1.exe.config
+C:\Users\tunah\source\repos\Deneme1\bin\Debug\Deneme1.exe
+C:\Users\tunah\source\repos\Deneme1\bin\Debug\Deneme1.pdb
+C:\Users\tunah\source\repos\Deneme1\bin\Debug\EasyModbus.dll
+C:\Users\tunah\source\repos\Deneme1\bin\Debug\EasyModbus.xml
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.csproj.AssemblyReference.cache
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.Form1.resources
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.Properties.Resources.resources
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.csproj.GenerateResource.cache
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.csproj.CoreCompileInputs.cache
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.csproj.Up2Date
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.exe
+C:\Users\tunah\source\repos\Deneme1\obj\Debug\Deneme1.pdb
